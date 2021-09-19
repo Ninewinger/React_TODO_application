@@ -30,6 +30,10 @@ function Todo() {
         array.splice(i, 1);
         setTodo(array);
     }
+    
+    function removeAll(){
+        setTodo([])
+    }
 
     return (
         <>
@@ -39,6 +43,7 @@ function Todo() {
                 <ul>
                     {lista}
                     <li id="itemsLeft">{todo.length} items left</li>
+                    <button className="rall" onClick={() => removeAll()}>Remove all tasks</button>
                 </ul>
             </div>
         </>
