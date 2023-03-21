@@ -1,3 +1,7 @@
+To Do List React.js
+
+![alt text]((https://github.com/Ninewinger/React_TODO_application/blob/main/preview.bmp)?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
