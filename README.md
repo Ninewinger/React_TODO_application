@@ -1,6 +1,6 @@
 To Do List React.js
 
-![alt text]((https://github.com/Ninewinger/React_TODO_application/blob/main/preview.bmp)?raw=true)
+![alt text](https://github.com/Ninewinger/React_TODO_application/blob/main/preview.bmp?raw=true)
 
 # Getting Started with Create React App
 
